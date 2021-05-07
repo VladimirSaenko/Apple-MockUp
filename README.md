@@ -1,7 +1,6 @@
-# Apples-MockUp-example
+# Apples-MockUp
 
-Apples MockUp example
-
+Apples MockUp 
 
 Portfolio-3 {
 
