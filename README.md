@@ -2,7 +2,7 @@
 
 Apples MockUp example
 
-![2223](https://user-images.githubusercontent.com/56477695/121494710-a64fbc00-c9e1-11eb-951a-f1b80e7b1b00.jpg)
+![3324](https://user-images.githubusercontent.com/56477695/122782471-6ded8f00-d2b9-11eb-96a0-af8e87876fdf.jpg)
 
 Portfolio-3 {
 
