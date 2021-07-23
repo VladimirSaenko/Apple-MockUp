@@ -143,9 +143,11 @@ body {
     .container .macBookPro {
         width: 90%;
     }
+
     .container .macBookPro img {
         width: 100%;
     }
+
     .container .macBookPro .imgBx {
         width: calc(100% * 465 / 609);
         height: calc(100% * 291 / 362);
