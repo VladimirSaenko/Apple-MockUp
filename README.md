@@ -1,6 +1,6 @@
 # Apples-MockUp
 
-![3324](https://user-images.githubusercontent.com/56477695/122782471-6ded8f00-d2b9-11eb-96a0-af8e87876fdf.jpg)
+![img-portfolio](https://user-images.githubusercontent.com/56477695/135838314-c375542b-8341-44cb-a9be-1e88b1b01c1d.jpg)
 
 ### Apples MockUp example
 
