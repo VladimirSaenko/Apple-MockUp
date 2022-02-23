@@ -1,4 +1,4 @@
-# Apples-MockUp-example
+# Apples-MockUp
 
 ## Apples MockUp example
 
